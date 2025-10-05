@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "Voice_Bot",
-    "project_version":    "1518fda-dirty",
+    "project_version":    "c325973-dirty",
     "project_path":       "C:/Users/Dell/Documents/ESPIDF/Voice_Bot",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.5.1",
     "build_dir":          "C:/Users/Dell/Documents/ESPIDF/Voice_Bot/build",
